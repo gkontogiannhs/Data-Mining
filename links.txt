@@ -1,0 +1,3 @@
+NLP Preprocessing: https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+Metrics: https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/
+Why values same: https://stackoverflow.com/questions/54068401/can-the-precision-recall-and-f1-be-the-same-value
